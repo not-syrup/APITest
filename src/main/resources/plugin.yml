@@ -1,0 +1,4 @@
+name: APITest
+version: '${project.version}'
+main: com.syrup.apitest.ApiTest
+api-version: 1.19
